@@ -197,8 +197,5 @@ cython_debug/
 
 *.pdf
 
-m4/
-
-week4*/
 week5*/
 week6*/

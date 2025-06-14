@@ -23,7 +23,7 @@ def bs(arr_size, arr, query_size, queries):
 if __name__ == "__main__":
     num_keys = int(input())
     input_keys = list(map(int, input().split(" ")))
-    assert len(input_keys) == input_keys
+    assert len(input_keys) == num_keys
 
     num_queries = int(input())
     queries = list(map(int, input().split(" ")))
