@@ -192,3 +192,18 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+
+*.pdf
+
+m1/
+m2/
+m3/
+m4/
+
+week2*/
+week3*/
+week4*/
+week5*/
+week6*/
